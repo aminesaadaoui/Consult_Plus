@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConsultPlus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="consult">CONSULT</string>
+    <string name="register_with_us">Register With Us!</string>
+    <string name="information_is_safe_with_us">Your information is safe with us</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="search_by_doctors_or_diseases">search by doctors or diseases</string>
+    <string name="most_popular">Most popular</string>
+    <string name="your_test_results">Your test results</string>
+</resources>
